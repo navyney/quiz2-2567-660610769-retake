@@ -1,3 +1,5 @@
+import { Commentcomp } from "./types";
+
 export const comments = [
   {
     username: "Lisa",
